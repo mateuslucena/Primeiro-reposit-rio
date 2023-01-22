@@ -1,0 +1,13 @@
+body {
+    margin: 0px;
+}
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 200px);
+    gap: 10px 10px;
+    justify-content: center;
+}
+.item {
+    height: 50px;
+    background-color: blue;
+}
