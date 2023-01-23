@@ -1,3 +1,1 @@
-Qualquer coisa
-altearção
-mudou
+Nada
